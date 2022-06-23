@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lizet.hernandez.vargas@ingka.ikea.com
+	name = Lizet Hernandez
